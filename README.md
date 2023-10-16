@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhaskar.ekta@ufl.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1X71xe9Qg_8zGoGtT8nFPTD1UkSmWibuA?usp=sharing](https://drive.google.com/drive/folders/1X71xe9Qg_8zGoGtT8nFPTD1UkSmWibuA?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rkJxBHW18hGcj6dKWKsrHqrIvAngFb0j/view?usp=drive_link][https://drive.google.com/file/d/1rkJxBHW18hGcj6dKWKsrHqrIvAngFb0j/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
