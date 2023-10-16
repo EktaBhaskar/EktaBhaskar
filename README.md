@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekta Bhaskar</h1>
-<h3 align="center">A passionate Backend developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ektabhaskar" alt="ektabhaskar" /></a> </p>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **kafka, Debezium, Spring, Spring Boot**
+- 🌱 I’m currently learning **Kafka, Debezium, Spring, Spring Boot**
 
 - 💬 Ask me about **Java, AWS and anything about tech**
 
