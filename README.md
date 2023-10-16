@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kafka, Debezium, Spring, Spring Boot**
 
-- 💬 Ask me about **Java, AWS and anything about tech**
+- 💬 Ask me about **Java, Python, C++,  AWS and anything about tech**
 
 - 📫 How to reach me **bhaskar.ekta@ufl.edu**
 
